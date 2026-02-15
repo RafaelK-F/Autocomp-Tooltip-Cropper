@@ -1,0 +1,24 @@
+{
+  "name": "autocomp-tooltip-cropper",
+  "version": "1.0.0",
+  "description": "Automatischer Tooltip-Cropper mit Ordner-Überwachung",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node runner.js",
+    "runner": "node runner.js"
+  },
+  "keywords": [
+    "minecraft",
+    "tooltip",
+    "auto-crop",
+    "file-watcher"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "chokidar": "^3.5.3",
+    "jimp": "^0.22.10",
+    "tesseract.js": "^5.0.4"
+  }
+}

@@ -1,4 +1,4 @@
-# 🤖 AUTOCOMP -- Automatic Tooltip Cropper
+# 🤖 AUTOCOMP - Automatic Tooltip Cropper
 
 Simply drop in files → processed automatically!
 
